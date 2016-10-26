@@ -7,7 +7,7 @@ public class Main {
 		int b = 200;
 		System.out.println(a+b);
 
-
+		System.out.println("最後に追加");
 	}
 
 }
