@@ -9,7 +9,8 @@ public class Main {
 		int a = 210;
 		int b = 200;
 		int c = 200;
-		System.out.println(a+b+c);
+		int d = 1000;
+		System.out.println(a+b+d);
 
 		System.out.println("最後に追加");
 	}
