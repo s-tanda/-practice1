@@ -5,6 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		System.out.println("最初に追加");
 
+		TestModel name = new TestModel("名前");
 
 		int a = 210;
 		int b = 200;
@@ -12,7 +13,7 @@ public class Main {
 		int d = 1000;
 		System.out.println(a+b+c+d);
 
-		System.out.println("最後に追加");
+		System.out.println(name.getName());
 	}
 
 }
