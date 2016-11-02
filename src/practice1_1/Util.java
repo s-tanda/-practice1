@@ -14,7 +14,7 @@ public class Util {
 	 * @return
 	 */
 	public static String addHoge(String arg){
-		return arg + "hoge変更しました。";
+		return arg + "hoge";
 	}
 
 	/**
