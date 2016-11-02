@@ -3,7 +3,7 @@ package practice1_1;
 import java.math.BigDecimal;
 
 /**
- * ユーティリティクラス
+ * ユーティリティクラス　
  * @author softem-n13
  *
  */
