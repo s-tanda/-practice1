@@ -18,7 +18,7 @@ public class Util {
 	}
 
 	/**
-	 * 小数の足し算
+	 * 小数同士の足し算
 	 * @param d1　小数１
 	 * @param d2　小数２
 	 *
