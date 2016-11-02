@@ -25,7 +25,6 @@ public class Util {
 	 * @return
 	 */
 	public static double dAdd(double d1, double d2){
-		//コメント追加
 		return BigDecimal.valueOf(d1).add(BigDecimal.valueOf(d2)).doubleValue();
 	}
 }
