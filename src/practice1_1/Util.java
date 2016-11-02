@@ -27,4 +27,15 @@ public class Util {
 	public static double dAdd(double d1, double d2){
 		return BigDecimal.valueOf(d1).add(BigDecimal.valueOf(d2)).doubleValue();
 	}
+
+	/**
+	 * 小数同士の引き算
+	 * @param d1
+	 * @param d2
+	 * @return 計算結果
+	 */
+	public static double dSub(double d1, double d2){
+		return BigDecimal.valueOf(d1).subtract(BigDecimal.valueOf(d2)).doubleValue();
+	}
+
 }
