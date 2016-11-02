@@ -22,7 +22,7 @@ public class Util {
 	 * @param d1　小数１
 	 * @param d2　小数２
 	 *
-	 * @return
+	 * @return　計算結果
 	 */
 	public static double dAdd(double d1, double d2){
 		return BigDecimal.valueOf(d1).add(BigDecimal.valueOf(d2)).doubleValue();
