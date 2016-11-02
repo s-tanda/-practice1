@@ -18,11 +18,11 @@ public class Util {
 	}
 
 	/**
-	 * 小数の足し算
+	 * 小数同士の足し算
 	 * @param d1　小数１
 	 * @param d2　小数２
 	 *
-	 * @return
+	 * @return　計算結果
 	 */
 	public static double dAdd(double d1, double d2){
 		return BigDecimal.valueOf(d1).add(BigDecimal.valueOf(d2)).doubleValue();
