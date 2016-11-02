@@ -19,8 +19,9 @@ public class Util {
 
 	/**
 	 * 小数の足し算
-	 * @param d1
-	 * @param d2
+	 * @param d1　小数１
+	 * @param d2　小数２
+	 *
 	 * @return
 	 */
 	public static double dAdd(double d1, double d2){
