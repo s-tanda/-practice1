@@ -10,7 +10,7 @@ import java.math.BigDecimal;
 public class Util {
 	/**
 	 * 引数の文字にhogeを追加して返す
-	 * @param arg
+	 * @param arg　引数の文字
 	 * @return
 	 */
 	public static String addHoge(String arg){
