@@ -11,7 +11,7 @@ public class Util {
 	/**
 	 * 引数の文字にhogeを追加して返す
 	 * @param arg　引数の文字
-	 * @return
+	 * @return　hogeを追加した文字列
 	 */
 	public static String addHoge(String arg){
 		return arg + "hoge";
